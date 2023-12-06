@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="Trang chủ" />
+
+        <item
+            android:id="@+id/nav_healthrp"
+            android:icon="@drawable/medicalreport"
+            android:title="Khai báo sức khỏe" />
+
+        <item
+            android:id="@+id/nav_medical"
+            android:icon="@drawable/medicines"
+            android:title="Thuốc của tôi" />
+
+        <item
+            android:id="@+id/nav_trilieu"
+            android:icon="@drawable/ic_baseline_healing_24"
+            android:title="Phương pháp trị liệu" />
+    </group>
+
+
+        <item android:title="Profile">
+
+            <menu>
+                <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/ic_baseline_person_24"
+                    android:title="Thông tin cái nhân" />
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/logout"
+                    android:title="Đăng xuất" />
+                </group>
+            </menu>
+        </item>
+
+
+
+    <item android:title="Liên hệ chúng tôi">
+
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+            android:id="@+id/nav_call"
+            android:icon="@drawable/ic_baseline_phone_24"
+            android:title="Liên hệ trực tiếp" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="Chia sẽ ứng dụng" />
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_baseline_star_rate_24"
+                android:title="Đánh giá sản phẩm" />
+            </group>
+
+        </menu>
+
+    </item>
+
+</menu>

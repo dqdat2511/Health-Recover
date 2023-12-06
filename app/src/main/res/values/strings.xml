@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CSSK</string>
+    <string name="web_client_id">308319704773-18932igicaf27rm0n18uglnbblgp1ao0.apps.googleusercontent.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="google_map_key" tempateMergeStrategy="preserve" translatable="false">AIzaSyBCuI51MTMgNbusT-pnZq1736V_9jC0C4E</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

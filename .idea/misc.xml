@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1925" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/drawable-v24/round_btn.xml" value="0.1895" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/drawable/ic_gg.xml" value="0.1895" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1925" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/drawable/ic_round_arrow_back_24.xml" value="0.1895" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/drawable/round_btn.xml" value="0.1895" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/drawable/round_btn_1.xml" value="0.1895" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/drawable/sign_in_background.xml" value="0.1895" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_full_tri_lieu.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_khai_bao.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_sign_in.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_thuoclayout.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_tri_lieu.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_trieu_chung.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/layout/thuoc_item.xml" value="0.2" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/layout/toolbar.xml" value="0.176" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/CSSK/app/src/main/res/layout/tri_lieu_item.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/drawable-v24/round_btn.xml" value="0.2335" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/drawable/background.xml" value="0.2545" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/drawable/background_menu.xml" value="0.207" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/drawable/bgcv.xml" value="0.2545" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/drawable/circelavt.xml" value="0.1" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1405" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.225" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/drawable/ic_round_arrow_back_24.xml" value="0.129" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/drawable/item_background.xml" value="0.177" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/drawable/round_btn.xml" value="0.2335" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_admin.xml" value="0.25" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_full_tri_lieu.xml" value="0.25" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_khai_bao.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_map.xml" value="0.264" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_map_nearby.xml" value="0.25" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_sign_in.xml" value="0.264" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_thuoclayout.xml" value="0.25" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_tri_lieu.xml" value="0.1984924623115578" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/activity_trieu_chung.xml" value="0.25" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/fragment_map_.xml" value="0.25" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/header.xml" value="0.264" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/menu.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/thuoc_item.xml" value="0.264" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/thuoc_item2.xml" value="0.264" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/thuoctest.xml" value="0.16" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/toolbar.xml" value="0.25" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/layout/tri_lieu_item.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/CSSK/app/src/main/res/menu/main_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
